@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="photos.ico" type="image/x-icon">
+    <title>Sobre mim!</title>
+</head>
+<body>
+    <h1>Minhas redes sociais</h1>
+
+    <h2>Quem sou eu?</h2>
+    
+    <img src="icon.png" alt="my icon (i dont have a face)">
+    <p>Meu nome é <strong>Adam Demétrio</strong>, tenho 17 anos e atualmente sou estudante de tecnologia e ciclista. Já rabalhei como repositor de supermercados, auxiliar de cozinha e auxiliar de confecção, mas atualmente estou tentando encontrar meu caminho na área da tecnologia por meio de cursos online e muito estudo.</p>
+
+    <h2>Como falar comigo?</h2>
+    <ul>
+        <p>
+            <li><img src="icone-twitter.png" alt="icone-twitter"><a href="https://twitter.com/adamvnz" ref=external target="_blank">me siga no twitter!</a>
+        </p>
+        <p>
+            <li><img src="icone-facebook.png" alt="icone-facebook"><a href="https://www.facebook.com/adam.metrido/" ref="external" target="_blank">me siga no faccebook!</a>
+        </p>
+        <p>
+            <li><img src="icone-instagram.png" alt="icone-instagram"><a href="https://www.instagram.com/vnz.adam" ref="external" target="_blank">me siga no instagram!</a>
+        </p>
+        <p>
+            <li><img src="icone-linkedin.png" alt="icone-linkedin"><a href="https://www.linkedin.com/in/adam-dem%C3%A9trio-35546b2a7/" ref="external" target="_blank">me siga no linkedin!</a>
+        </p>
+    </ul>
+</body>
+</html>
